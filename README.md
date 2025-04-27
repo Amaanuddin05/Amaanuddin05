@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi, I'm Amaan 👋, a passionate developer currently in my 3rd year of B.Tech in Computer Science and Engineering 🎓.<br>
-I'm open to collaborating 🤝 on any project that sparks my curiosity, especially around Web Development 💻, AI/ML 🤖, AR 🕶️, and VR 🎮 technologies.<br>
-Currently, I'm diving deeper into AI/ML 📚, Augmented Reality (AR) 🔍, and Virtual Reality (VR) 🧠 to expand my skills and bring creative ideas to life.<br>
-I love turning complex ideas into real, interactive projects ✨ — always ready to explore something new, challenge myself, and grow as a developer! 🚀
+- Hi, I'm Amaan 👋, a passionate developer currently in my 3rd year of B.Tech in Computer Science and Engineering 🎓.<br>
+- I'm open to collaborating 🤝 on any project that sparks my curiosity, especially around Web Development, AI/ML, AR technologies.<br>
+- Currently, I'm diving deeper into AI/ML and Augmented Reality (AR) to expand my skills and bring creative ideas to life.<br>
+- I love turning complex ideas into real, interactive projects ✨ — always ready to explore something new, challenge myself, and grow as a developer! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-amaanuddin-4427a72b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaanuddin0501@gmail.com) 
